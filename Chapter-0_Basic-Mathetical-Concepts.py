@@ -1,4 +1,5 @@
 # Chapter 0 - Basic Mathematical Concepts
 
 class Math:
-    def 
+    def __init__(self) -> None:
+        pass
